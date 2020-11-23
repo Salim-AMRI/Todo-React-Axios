@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "redux"
+    },
+    {
+      "id": 5,
+      "title": "nodejs"
+    },
+    {
+      "title": "cc",
+      "id": 7
+    }
+  ]
+}
